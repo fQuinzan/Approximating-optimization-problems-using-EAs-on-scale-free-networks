@@ -11,8 +11,8 @@ We prove that for the Dominating Set, Vertex Cover, Connected Dominating Set and
 
 ## Files and folders
 
-- The folder code contains the software used for the epxeriments.
-- The folder sdata contains some sample graphs used in the experiments.
+- The folder graphExplorer contains the software used for the epxeriments.
+- The folder sdata contains some sample graphs taken from [SNAP](http://snap.stanford.edu/) used in the experiments.
 
 ## Requirements
 
